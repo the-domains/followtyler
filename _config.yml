@@ -1,0 +1,23 @@
+name: FollowTyler
+favicon: null
+layout_spectrum: 0.22988117206841707
+typography_spectrum: 0.05057027982547879
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8772509298287332
+  lightness: 0.6382739953696728
+  saturation: 0.45840041246265173
+  rhythmicContrast: 0.0753496065735817
+purpose: []
