@@ -17,8 +17,8 @@ keywords:
   - legs
   - pack
 description: 'This week I got my mind in gear for the climb ahead and got off the couch and out on the streets with my pack, tires, and ankle weights. I have two 25 lb tires that I set up to drag behind me and pull my chest back as I pull up the hill (it also slows the descent).'
-datePublished: '2016-03-21T04:07:38.268Z'
-dateModified: '2016-03-21T04:07:30.703Z'
+datePublished: '2016-03-21T04:15:01.204Z'
+dateModified: '2016-03-21T04:07:43.997Z'
 author:
   - name: Tyler
     url: 'http://www.followtyler.com/author/opusandcaymus/'
