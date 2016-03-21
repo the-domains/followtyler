@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Tyler
-    url: 'http://www.followtyler.com/author/opusandcaymus/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.followtyler.com'
-  name: 'Follow Tyler!'
-  favicon: null
-  domain: www.followtyler.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.followtyler.com/2015/01/17/training-week-1-cho-oyu/'
+inLanguage: en
+starred: true
 keywords:
   - tired
   - boots
@@ -21,17 +17,23 @@ keywords:
   - legs
   - pack
 description: 'This week I got my mind in gear for the climb ahead and got off the couch and out on the streets with my pack, tires, and ankle weights. I have two 25 lb tires that I set up to drag behind me and pull my chest back as I pull up the hill (it also slows the descent).'
-inLanguage: en
+datePublished: '2016-03-21T04:07:38.268Z'
+dateModified: '2016-03-21T04:07:30.703Z'
+author:
+  - name: Tyler
+    url: 'http://www.followtyler.com/author/opusandcaymus/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.followtyler.com/2015/01/17/training-week-1-cho-oyu/'
 title: 'Training Week 1 for Cho Oyu - Follow Tyler!'
-datePublished: '2016-03-21T04:05:45.620Z'
-dateModified: '2016-03-21T04:05:24.753Z'
 sourcePath: _posts/2016-03-21-training-week-1-for-cho-oyu-follow-tyler.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'Follow Tyler!'
+  domain: www.followtyler.com
+  url: 'http://www.followtyler.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
